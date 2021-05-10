@@ -1,0 +1,20 @@
+{
+  "name": "potatogodzilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrinkh/potatogodzilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afrinkh/potatogodzilla/issues"
+  },
+  "homepage": "https://github.com/afrinkh/potatogodzilla#readme"
+}
