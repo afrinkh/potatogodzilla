@@ -3,18 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.7",
+    "next": "^10.2.0",
+    "nodemon": "^2.0.7"
+  },
   "scripts": {
     "start": "nodemon ./app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afrinkh/potatogodzilla.git"
+    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/potatogodzilla"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/afrinkh/potatogodzilla/issues"
-  },
-  "homepage": "https://github.com/afrinkh/potatogodzilla#readme"
+  "author": "milky",
+  "license": "ISC"
 }
