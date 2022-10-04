@@ -12,7 +12,7 @@ class CardView extends Component {
     return (
       <>
         <Card style={{ width: '11.6rem', margin: '10px 50px 20px 0' ,padding:'1.5px'}}>
-        <Card.Img variant="top" src={this.props.img} style={{ height: '250px',width: '190px'}}/>
+        <Card.Img variant="top" src={this.props.img} style={{ height: '250px',width: '180px'}}/>
         <Card.Body>
           <Card.Title>{this.props.name}</Card.Title>
           <Card.Text style={{}}>
