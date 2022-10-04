@@ -31,7 +31,7 @@ class Demo extends Component {
       <>
       <div className=" row">
       <div className="col div1">
-        <Card style={{width: '250px'}}>
+        <Card style={{width: '211px'}}>
         <Card.Img variant="top" src={this.state.coverpics} style={{ height: '250px',width: '210px'}}/>
         <Card.Body>
           <Card.Title>{this.state.title}</Card.Title>
